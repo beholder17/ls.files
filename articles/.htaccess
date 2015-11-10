@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^([^/\.]+)/?$ show.php?alias=$1 [L]
+
+RewriteRule ^by_category/([^/\.]+)/?$ by_category.php?cat=$1 [L]

@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)$ catalog.php?page=$3&category=$2&season=$1 [L]
+
+RewriteEngine on
+RewriteRule ^details/([^/\.]+)/([^/\.]+)/([^/\.]+)$ details.php?art=$3&cat=$2&season=$1 [L]

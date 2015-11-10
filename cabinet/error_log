@@ -1,0 +1,140 @@
+[30-Oct-2013 10:44:19] PHP Warning:  include_once(/var/www/u0095203/public_html/ls2013/template/header.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /var/www/u0095203/public_html/cabinet/anket_mngr.php on line 10
+[30-Oct-2013 10:44:19] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/var/www/u0095203/public_html/ls2013/template/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /var/www/u0095203/public_html/cabinet/anket_mngr.php on line 10
+[30-Oct-2013 10:44:53] PHP Warning:  include_once(/var/www/u0095203/public_html/ls2013/template/header.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /var/www/u0095203/public_html/cabinet/anket_mngr.php on line 10
+[30-Oct-2013 10:44:53] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/var/www/u0095203/public_html/ls2013/template/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /var/www/u0095203/public_html/cabinet/anket_mngr.php on line 10
+[20-Jan-2014 10:48:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /var/www/u0095203/public_html/cabinet/mngr_overview.php on line 71
+[28-Feb-2014 13:46:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/_agree.php on line 45
+[28-Feb-2014 13:47:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/_agree.php on line 45
+[01-Jul-2014 21:33:15] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='+79...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[19-Jul-2014 13:45:25] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /var/www/u0095203/public_html/cabinet/unshown_new_mgr.php on line 37
+[08-Oct-2014 23:28:01] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='891...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[21-Oct-2014 15:34:36] PHP Parse error:  syntax error, unexpected T_ELSE, expecting ',' or ';' in /var/www/u0095203/public_html/template/header.php on line 8
+[21-Oct-2014 15:34:49] PHP Parse error:  syntax error, unexpected T_ELSE, expecting ',' or ';' in /var/www/u0095203/public_html/template/header.php on line 8
+[21-Oct-2014 15:34:58] PHP Parse error:  syntax error, unexpected T_ELSE, expecting ',' or ';' in /var/www/u0095203/public_html/template/header.php on line 8
+[21-Oct-2014 15:35:04] PHP Parse error:  syntax error, unexpected T_ELSE, expecting ',' or ';' in /var/www/u0095203/public_html/template/header.php on line 8
+[16-Dec-2014 16:05:40] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='895...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[16-Dec-2014 16:05:47] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='895...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[17-Dec-2014 22:00:29] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='895...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[26-Jan-2015 16:06:24] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='890...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[26-Jan-2015 16:06:28] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='890...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[26-Jan-2015 16:06:31] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='890...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[26-Jan-2015 16:06:33] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='890...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[30-Jan-2015 09:57:14] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='892...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[30-Jan-2015 09:57:14] PHP Fatal error:  Uncaught exception 'Exception' with message '[XML2Array] The input XML object should be of type: DOMDocument.' in /var/www/u0095203/public_html/auth/sms/transport.php:264
+Stack trace:
+#0 /var/www/u0095203/public_html/auth/sms/transport.php(106): SMSTransport_XML2Array::createArray(false)
+#1 /var/www/u0095203/public_html/auth/sms/transport.php(113): Transport->parseXML(false)
+#2 /var/www/u0095203/public_html/auth/sms/transport.php(77): Transport->request('send', Array, '<to number='892...')
+#3 /var/www/u0095203/public_html/cabinet/_agree.php(68): Transport->send(Array, Array)
+#4 {main}
+  thrown in /var/www/u0095203/public_html/auth/sms/transport.php on line 264
+[25-Feb-2015 20:01:46] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/cabinet/unshown_new_mgr.php on line 78
+[25-Feb-2015 20:01:48] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/cabinet/unshown_new_mgr.php on line 78
+[25-Feb-2015 20:02:02] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/cabinet/unshown_new_mgr.php on line 78
+[25-Feb-2015 20:02:03] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/cabinet/unshown_new_mgr.php on line 78
+[26-Feb-2015 12:46:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:46:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:46:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:46:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:46:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:46:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:46:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:46:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:46:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 12:47:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/cabinet/ajax_file_searcher_mngr.php on line 19
+[26-Feb-2015 13:01:44] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/cabinet/ajax_search_one_model.php on line 102
+[26-Feb-2015 13:03:26] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/cabinet/ajax_search_one_model.php on line 102
+[26-Feb-2015 13:03:29] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/cabinet/ajax_search_one_model.php on line 102
+[26-Feb-2015 13:04:15] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/cabinet/ajax_search_one_model.php on line 95
+[26-Feb-2015 13:04:43] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/cabinet/ajax_search_one_model.php on line 95
+[04-Mar-2015 01:48:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /var/www/u0095203/public_html/db_connect.php on line 2

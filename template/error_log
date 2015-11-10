@@ -1,0 +1,2 @@
+[20-Nov-2014 11:59:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/u0095203/public_html/template/404.php:10) in /var/www/u0095203/public_html/template/404.php on line 10
+[20-Nov-2014 11:59:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/u0095203/public_html/template/404.php:10) in /var/www/u0095203/public_html/template/404.php on line 10

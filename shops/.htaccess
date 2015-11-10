@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^([^/\.]+)/?$ details.php?alias=$1 [L]

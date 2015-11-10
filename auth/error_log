@@ -1,0 +1,23 @@
+[02-Dec-2013 15:23:04] PHP Warning:  include_once(db_class.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /var/www/u0095203/public_html/auth/welcome-auth.php on line 56
+[02-Dec-2013 15:23:04] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'db_class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /var/www/u0095203/public_html/auth/welcome-auth.php on line 56
+[02-Dec-2013 15:23:04] PHP Fatal error:  Class 'users' not found in /var/www/u0095203/public_html/auth/welcome-auth.php on line 57
+[02-Dec-2013 15:23:32] PHP Fatal error:  Class 'users' not found in /var/www/u0095203/public_html/auth/welcome-auth.php on line 57
+[05-Feb-2014 11:43:20] PHP Warning:  include_once(/var/www/u0095203/public_html/ls2013/template/header.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /var/www/u0095203/public_html/auth/recovery.php on line 10
+[05-Feb-2014 11:43:20] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/var/www/u0095203/public_html/ls2013/template/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /var/www/u0095203/public_html/auth/recovery.php on line 10
+[05-Feb-2014 11:43:20] PHP Warning:  include(category.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /var/www/u0095203/public_html/auth/recovery.php on line 14
+[05-Feb-2014 11:43:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'category.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /var/www/u0095203/public_html/auth/recovery.php on line 14
+[05-Feb-2014 11:43:20] PHP Warning:  include(db_connect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /var/www/u0095203/public_html/articles/_bar_category.php on line 4
+[05-Feb-2014 11:43:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /var/www/u0095203/public_html/articles/_bar_category.php on line 4
+[05-Feb-2014 13:09:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /var/www/u0095203/public_html/auth/recovery_do.php on line 37
+[11-Dec-2014 15:48:12] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[11-Dec-2014 15:48:17] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[11-Dec-2014 15:48:20] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[11-Dec-2014 15:49:32] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[11-Dec-2014 16:21:27] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[11-Dec-2014 20:37:25] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[11-Dec-2014 21:13:28] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[12-Dec-2014 09:32:33] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[12-Dec-2014 09:35:37] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[17-Feb-2015 15:12:40] PHP Parse error:  syntax error, unexpected '}' in /var/www/u0095203/public_html/auth/registration_check.php on line 14
+[17-Feb-2015 16:12:57] PHP Parse error:  syntax error, unexpected '=' in /var/www/u0095203/public_html/auth/registration_check.php on line 13
+[04-Mar-2015 01:51:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /var/www/u0095203/public_html/db_connect.php on line 2

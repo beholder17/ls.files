@@ -1,0 +1,9 @@
+[01-Dec-2014 12:31:22] PHP Fatal error:  Can't use function return value in write context in /var/www/u0095203/public_html/shops/details.php on line 5
+[01-Dec-2014 12:32:07] PHP Parse error:  syntax error, unexpected T_STRING in /var/www/u0095203/public_html/shops/details.php on line 5
+[01-Dec-2014 12:32:09] PHP Parse error:  syntax error, unexpected T_STRING in /var/www/u0095203/public_html/shops/details.php on line 5
+[01-Dec-2014 12:43:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /var/www/u0095203/public_html/shops/details.php on line 11
+[01-Dec-2014 13:03:07] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /var/www/u0095203/public_html/shops/details.php on line 93
+[01-Dec-2014 13:20:44] PHP Parse error:  syntax error, unexpected '.' in /var/www/u0095203/public_html/shops/details.php on line 95
+[01-Dec-2014 13:21:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /var/www/u0095203/public_html/shops/details.php on line 95
+[01-Dec-2014 15:35:39] PHP Parse error:  syntax error, unexpected T_ECHO in /var/www/u0095203/public_html/shops/index.php on line 74
+[27-Mar-2015 12:11:34] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /var/www/u0095203/public_html/db_connect.php on line 2

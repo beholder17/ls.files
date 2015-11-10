@@ -1,0 +1,22 @@
+[30-Apr-2015 10:54:10] PHP Parse error:  syntax error, unexpected $end in /var/www/u0095203/public_html/bags/index.php on line 48
+[30-Apr-2015 11:11:00] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /var/www/u0095203/public_html/bags/index.php on line 51
+[30-Apr-2015 11:11:01] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /var/www/u0095203/public_html/bags/index.php on line 51
+[30-Apr-2015 11:11:02] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /var/www/u0095203/public_html/bags/index.php on line 51
+[07-May-2015 11:16:19] PHP Parse error:  syntax error, unexpected '<' in /var/www/u0095203/public_html/bags/index.php on line 80
+[07-May-2015 11:18:05] PHP Parse error:  syntax error, unexpected '<' in /var/www/u0095203/public_html/bags/index.php on line 80
+[07-May-2015 11:20:58] PHP Parse error:  syntax error, unexpected '<' in /var/www/u0095203/public_html/bags/index.php on line 80
+[07-May-2015 11:27:23] PHP Fatal error:  Can't use function return value in write context in /var/www/u0095203/public_html/bags/index.php on line 101
+[07-May-2015 11:27:24] PHP Fatal error:  Can't use function return value in write context in /var/www/u0095203/public_html/bags/index.php on line 101
+[07-May-2015 11:27:25] PHP Fatal error:  Can't use function return value in write context in /var/www/u0095203/public_html/bags/index.php on line 101
+[07-May-2015 11:27:26] PHP Fatal error:  Can't use function return value in write context in /var/www/u0095203/public_html/bags/index.php on line 101
+[07-May-2015 11:27:57] PHP Fatal error:  Can't use function return value in write context in /var/www/u0095203/public_html/bags/index.php on line 101
+[07-May-2015 11:27:59] PHP Fatal error:  Can't use function return value in write context in /var/www/u0095203/public_html/bags/index.php on line 101
+[07-May-2015 11:27:59] PHP Fatal error:  Can't use function return value in write context in /var/www/u0095203/public_html/bags/index.php on line 101
+[07-May-2015 11:27:59] PHP Fatal error:  Can't use function return value in write context in /var/www/u0095203/public_html/bags/index.php on line 101
+[07-May-2015 11:31:57] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/u0095203/public_html/bags/index.php on line 91
+[07-May-2015 11:31:58] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/u0095203/public_html/bags/index.php on line 91
+[07-May-2015 11:59:39] PHP Parse error:  syntax error, unexpected '}' in /var/www/u0095203/public_html/bags/index.php on line 60
+[08-Jun-2015 15:20:00] PHP Warning:  opendir(/path/to/files) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /var/www/u0095203/public_html/bags/bag_edit.php on line 4
+[08-Jun-2015 15:20:29] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /var/www/u0095203/public_html/bags/bag_edit.php on line 4
+[08-Jun-2015 15:20:29] PHP Parse error:  syntax error, unexpected ':' in /var/www/u0095203/public_html/bags/bag_edit.php on line 4
+[08-Jun-2015 15:26:06] PHP Fatal error:  Function name must be a string in /var/www/u0095203/public_html/bags/bag_edit.php on line 17
